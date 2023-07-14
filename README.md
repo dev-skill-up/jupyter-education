@@ -2,6 +2,6 @@
 
 Included here are the resources I used for the talk:
 
-* [talk.ipynb](Source notebook)
+* [Source notebook](talk.ipynb)
 * [Slides](talk.pdf)
 * [Notes](handout.pdf)
